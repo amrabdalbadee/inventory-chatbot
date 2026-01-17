@@ -1,4 +1,4 @@
-# Inventory Chatbot v2
+# Inventory Chatbot 
 
 A minimal AI chat service with **Ollama as the default provider**. Automatically switches to OpenAI/Azure if credentials are provided in `.env`.
 
